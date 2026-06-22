@@ -1,0 +1,9 @@
+# ESP-IDF build output
+build/
+sdkconfig.old
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
